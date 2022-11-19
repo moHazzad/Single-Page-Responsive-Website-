@@ -55,7 +55,8 @@
 
 /* demo details stats  */
 .bg{
-    background-color: rgb(27, 25, 25);
+   
+    background-color:  #151515;
 }
 .responsive{
     margin-top: 200px;
@@ -127,4 +128,59 @@
     padding: 10px 0 10px;
     font-size: 20px;
     
+}
+/* WHY CHOOSE FLEX START */
+.why-title{
+    margin:100px 0 70px ;
+    text-align: center;
+}
+.why-title h1{
+    margin:0;
+    font-size: 80px;
+    font-weight: 700;
+    color: rgb(200, 212, 209);
+}
+.why-title h6{
+    margin: 20px 0 20px;
+    padding-bottom: 20px;
+}
+.sbg{
+    background-color: rgb(21, 19, 19);
+
+}
+.benifit{
+    
+    
+    
+    
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(89, 91, 90);
+}
+.pernt-benifit{
+    width: 50%;
+    
+}
+.benifit p{
+    
+    color: rgb(178, 181, 183);
+}
+/* 3 step method start  */
+.download{
+    color: rgb(200, 212, 209);
+
+}
+.download h6{
+
+    margin: 0;
+}
+.step-count{
+    padding: 0;
+    font-weight: 700;
+    font-size: 150px;
+    color: rgb(200, 212, 209);
+}
+.tep-pera{
+    margin-top: 40px;
+    color: rgb(200, 212, 209);
 }
