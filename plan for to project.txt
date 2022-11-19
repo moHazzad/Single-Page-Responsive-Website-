@@ -1,0 +1,8 @@
+1. Create HTML basic structure.
+2. style html elements.
+3. find all the html and add listener.
+4. Add toDo
+5. show Massage.
+6.Adding to do in local Storage.
+7. delete to Do 
+8. Read to Do.
